@@ -60,6 +60,10 @@
     </Reference>
 
     <Reference Include="Assembly-CSharp">
+      <HintPath>$(HollowKnightRefs)/Mods/Satchel/Satchel.dll</HintPath>
+    </Reference>
+
+    <Reference Include="Assembly-CSharp">
       <HintPath>$(HollowKnightRefs)/Mods/MenuChanger/MenuChanger.dll</HintPath>
     </Reference>
 
